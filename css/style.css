@@ -1,7 +1,12 @@
 body {
     background: #00B9E6;
 }
-#wrapper {
+.wrapper-calc {
+    float: left;
+    margin: 100px 80px;
+    padding: 10px 10px;
+    width: auto;
     border: 1px;
     border-color: #777;
+    background: #fff;
 }

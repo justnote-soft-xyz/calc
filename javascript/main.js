@@ -1,6 +1,6 @@
 var numbers = document.querySelectorAll ('.number'),
     operations = document.querySelectorAll ('.operation'), 
-decimal = document.getElementById('decimal'),
+decimalBtn = document.getElementById('decimal'),
     result = document.getElementById('result'),
      clearbtn = document.getElementById('clearbtn'); 
  
